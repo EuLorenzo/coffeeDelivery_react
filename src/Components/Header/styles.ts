@@ -5,11 +5,10 @@ export const Container = styled.header`
     flex-direction: row;
     align-items: center;
     height: 104px;
-    color: ${(props) => props.theme["background"]};
+    color: ${(props) => props.theme["background"]};;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    width: 1440;
 `
 
 export const ShowLocation = styled.p`

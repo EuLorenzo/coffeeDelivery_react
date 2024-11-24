@@ -1,7 +1,7 @@
 import { Cart, CartContainer, Container, ShowLocation } from "./styles";
-import Icon from "../../Assets/icon.svg"
-import locationIcon from "../../Assets/locationIcon.svg"
-import CartIcon from "../../Assets/cart_icon.svg"
+import Icon from "../../Assets/Header/icon.svg"
+import locationIcon from "../../Assets/Header/locationIcon.svg"
+import CartIcon from "../../Assets/Header/cart_icon.svg"
 
 export function Header(){
     return (
